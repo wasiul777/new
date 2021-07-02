@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header-area{
+	background:#2980b9;
+	height:250px;
+
+}
+
+.left-area{
+	background:#f1c40f ;
+	width: 25%;
+	height: 250px;
+	float: left;
+	
+}
+.center-area{
+	background:#e74c3c ;
+	width: 50%;
+	height: 250px;
+	float:left;
+
+}
+.right-area{
+	background:#2c3e50 ;
+	width: 25%;
+	height: 250px;
+	float:left;
+
+}
+.sobgula-aksathe:after{
+	content: '';
+	display:block;
+	clear: both;
+	
+}
+.footer-area{
+	background:#2ecc71 ;
+	height:250px;
+}
+
+
+
+
